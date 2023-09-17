@@ -1,5 +1,7 @@
-![image](https://github.com/Adrita12/WeatherApp/assets/98798926/4a6bfe8c-8c6e-42ab-9877-2cc6d15ca0d9)# WeatherApp
-![image](https://github.com/Adrita12/WeatherApp/assets/98798926/1747fba1-60fd-4b87-a08c-0e9da1044bae)
+# WeatherApp
+
+![image](https://github.com/Adrita12/WeatherApp/assets/98798926/4a6bfe8c-8c6e-42ab-9877-2cc6d15ca0d9)
+
 
 A simple web application that provides current weather information for a given location using HTML, CSS, and JavaScript using an API.
 
